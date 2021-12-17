@@ -1,1 +1,2 @@
 Text file is modified
+The file was commited
